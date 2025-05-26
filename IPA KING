@@ -1,0 +1,17 @@
+{
+  "name": "IPA KING",
+  "identifier": "com.ipaking.repo",
+  "apps": [
+    {
+      "name": "Spotify Premium",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "tobene",
+      "version": "5.9.6",
+      "versionDate": "2025-05-26",
+      "versionDescription": "• Initial release",
+      "downloadURL": "https://www.dropbox.com/scl/fi/mf8szokbf5d8p4fyw6adh/EeveeSpotify-5.9.6-9.0.40.ipa?rlkey=i18qm030h2s2vokpsioz0u5l4&st=0irepeoj&dl=1",
+      "iconURL": "https://getsby.com/wp-content/uploads/2024/09/Spotify-Premium-Header.png",
+      "tintColor": "007AFF"
+    }
+  ]
+}
